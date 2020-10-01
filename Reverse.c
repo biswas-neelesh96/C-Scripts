@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
     int p,m,n,rev=0;          //initializing rev as 0, as well declaring p,m & n as integers
     printf("Enter a number"); //declaring n to read number
@@ -13,4 +13,5 @@ main()
        n=n/10;
     }
     printf("Reverse of %d = %d",p,rev);
+    return 0;
 }
