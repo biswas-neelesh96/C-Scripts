@@ -1,8 +1,5 @@
 # C-Scripts
  This repository is used for Scripts written in C Language for **Hacktoberfest 2020.**
- 
-<img src: "https://github.com/biswas-neelesh96/C-Scripts/blob/master/H20-Images/Screenshot-(886).png">
-
 ## Guidelines for contribution:
 
 1) Before contributing, make sure you have a [GitHub](https://github.com) acoount with a proper knowledge of Git or Github. Also follow the guidelines of [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/faq).
