@@ -19,7 +19,7 @@
 
 ![Sample Code](https://github.com/biswas-neelesh96/C-Scripts/blob/master/H20-Images/Screenshot-(895).png)
 
-6) Pull requests will be labelled invalid if anyone is found to do this:
+6) Pull requests will be labelled **invalid** if anyone is found to do this:
 
 	a) edit the README.md or any other markdown file (if available).
 	
