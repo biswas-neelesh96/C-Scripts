@@ -1,6 +1,6 @@
-//Selection Sort algorithm
+//Bubble Sort algorithm
 
-//Importing header files
+//Including header files
 #include<stdio.h>
 
 //Swap function

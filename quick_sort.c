@@ -1,6 +1,6 @@
 //Quick Sort algorithm
 
-//Importing header files
+//Including header files
 #include<stdio.h>
 
 //Swap function
