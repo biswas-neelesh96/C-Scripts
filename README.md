@@ -1,4 +1,4 @@
-**UPDATE ON 04/09/2021:** This repository is now no longer available for contribution. I have created a new repository for **C/C++ Scripts** which will be used during **Hacktoberfest 2021**, if you want to contribute your Python Scripts and want your scripts to be approved for the 2021 event, then click on [C-Cpp-Scripts-2021](https://github.com/biswas-neelesh96/C-Cpp-Scripts-2021)
+**UPDATE ON 04/09/2021:** This repository is now no longer available for contribution. I have created a new repository for **C/C++ Scripts** which will be used during **Hacktoberfest 2021**, if you want to contribute your **C/C++ Scripts** and want your scripts to be approved for the 2021 event, then click on [C-Cpp-Scripts-2021](https://github.com/biswas-neelesh96/C-Cpp-Scripts-2021)
 
 **UPDATE ON 01/11/2020:** Although Hacktoberfest 2020 has ended, but these repositories are still open for contribution. However, the pull requests sent after this update will not get **hacktoberfest-accepted** label & may not be merged if the above guidelines have not been followed.
 
